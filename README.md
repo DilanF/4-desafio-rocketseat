@@ -1,6 +1,6 @@
 # 4º Desafio do explorer Rocketseat
 
-![preview](./images/preview.png)
+![preview](./imagens/preview.png)
 
 O quarto desafio da trilha explorer da Rocketseat semana 2.
 Pagina totalmente responsiva!
