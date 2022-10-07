@@ -1,6 +1,6 @@
 # Recriando Layout
 
-![preview](./images/preview.png)
+![preview](./imagens/preview.png)
 
 4º Desafio da trilha Explorar da Rocketseat.  
 Recriamos o layout totalmente do zero para reforçar os contéudos.
