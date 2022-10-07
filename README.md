@@ -1,11 +1,11 @@
-# 4º Desafio do explorer Rocketseat
+# Recriando Layout
 
-![preview](./imagens/preview.png)
+![preview](./images/preview.png)
 
-O quarto desafio da trilha explorer da Rocketseat semana 2.
-Pagina totalmente responsiva!
+4º Desafio da trilha Explorar da Rocketseat.  
+Recriamos o layout totalmente do zero para reforçar os contéudos.
 
-[🔗 Clique aqui para acessar](https://dilanferrari.github.io/4-desafio-rocktseat/)
+[🔗 Clique aqui para acessar](https://dilanferrari.github.io/recriando-layout/)
 
 ## 🖥️ Tecnologias
 
